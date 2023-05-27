@@ -28,10 +28,22 @@ File README ini berisikan design program, penjelasan alur program, dan dokumenta
 # Dokumentasi
 
     - Landing Page
-
+![landing_page](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/d7d3c51a-ea16-4d6a-918d-c896fee4a773)
 
     - Halaman Daftar Residen
-
+![daftar_residen](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/84cfa864-78a0-4652-9ebe-402dfffb1954)
 
     - Halaman Detail
+![apart1](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/48a05706-11f8-4a93-9b6f-13c0a693ea58)
 
+![rumah1](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/16d9af50-cece-45d7-b7c1-ac5a2ef3a99d)
+
+![indekos](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/544aac80-8c7e-419f-851c-0bee354ad029)
+
+![rumah2](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/4319a71f-fc9c-463b-ae1e-b886de996176)
+
+![apart2](https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/a9740152-65cc-41bf-84b5-af5eb0bd2828)
+
+# Simulasi
+
+https://github.com/Talitha-Syahla/LP9DPBO2023C2/assets/119799623/42946333-8920-4972-9907-ad442e905bca
